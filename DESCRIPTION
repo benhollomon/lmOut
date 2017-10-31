@@ -1,6 +1,6 @@
 Package: lmOut
 Title: Regression summary output function
-Version: 0.0.0.9000
+Version: 0.1.0
 Authors@R: person("Ben", "Hollomon", email = "benhollomon@users.noreply.github.com", role = c("aut", "cre"))
 Description: This function collects coefficients, t-stats, p-values, f-stats, etc from a regression summary and writes output to csv or returns dataframe.
 Depends: R (>= 3.4.1)
